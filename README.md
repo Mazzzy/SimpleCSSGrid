@@ -12,7 +12,9 @@ It contains .css file that gives you styling to create responsive 12 grid in pur
 ## Usage
 
 * Include my_grid.css in your application as,
+	```
 	<link rel="stylesheet" href="css/app_style.css" />
+	```
 * Apply classes as :
   * mcontainer : Application / feature container.
   * mrow : For creating row
